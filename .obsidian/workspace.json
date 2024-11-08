@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "507702cb7b2051bc",
+        "id": "10275ff3ba67a878",
         "type": "tabs",
         "children": [
           {
-            "id": "e752af9f967c6a87",
+            "id": "f1916001aef64606",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Добро пожаловать.md",
-                "mode": "source",
-                "source": false
+                "file": "PHP/README.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Добро пожаловать"
-            }
-          }
-        ]
-      },
-      {
-        "id": "bcaaa6a8f3f1b1b5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "01f427f01988d27c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "README"
             }
           }
         ]
@@ -93,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 382.5
   },
   "right": {
     "id": "231dca19cf41c770",
@@ -176,11 +160,22 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "e752af9f967c6a87",
+  "active": "f1916001aef64606",
   "lastOpenFiles": [
+    "PHP/Сборка мусора  GC/Основной подсчет ссылок.md",
+    "PHP/README.md",
+    "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.png",
+    "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.svg",
+    "Excalidraw",
+    "PHP/Сборка мусора  GC.md",
+    "PHP/Сборка мусора  GC",
+    "Основной.md",
+    "PHP",
     "Добро пожаловать.md"
   ]
 }
