@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "b93872b7065c1c28",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +177,7 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "f1916001aef64606",
+  "active": "b93872b7065c1c28",
   "lastOpenFiles": [
     "PHP/Сборка мусора  GC/Основной подсчет ссылок.md",
     "PHP/README.md",
