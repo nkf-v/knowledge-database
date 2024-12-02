@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 303.5
   },
   "right": {
     "id": "231dca19cf41c770",
@@ -181,6 +181,7 @@
   },
   "active": "8abfdef18eb14819",
   "lastOpenFiles": [
+    "Pasted image 20241202154150.png",
     "PHP/Сборка мусора  GC/Основной подсчет ссылок.md",
     "PHP/Сборка мусора  GC/Сбор циклических ссфлок.md",
     "PHP/README.md",
