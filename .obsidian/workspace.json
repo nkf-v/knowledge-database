@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Основной подсчет ссылок"
             }
+          },
+          {
+            "id": "8abfdef18eb14819",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHP/Сборка мусора  GC/Сбор циклических ссфлок.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Сбор циклических ссфлок"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,10 +179,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1916001aef64606",
+  "active": "8abfdef18eb14819",
   "lastOpenFiles": [
-    "PHP/README.md",
     "PHP/Сборка мусора  GC/Основной подсчет ссылок.md",
+    "PHP/Сборка мусора  GC/Сбор циклических ссфлок.md",
+    "PHP/README.md",
     "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.md",
     "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.png",
     "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.svg",
