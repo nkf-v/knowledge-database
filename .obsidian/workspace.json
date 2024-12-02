@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Сбор циклических ссфлок"
             }
+          },
+          {
+            "id": "528d09387c46fcbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHP/Сборка мусора  GC/Вопросы производительности.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Вопросы производительности"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,11 +193,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8abfdef18eb14819",
+  "active": "528d09387c46fcbf",
   "lastOpenFiles": [
+    "PHP/Сборка мусора  GC/Сбор циклических ссфлок.md",
+    "PHP/Сборка мусора  GC/Вопросы производительности.md",
     "Pasted image 20241202154150.png",
     "PHP/Сборка мусора  GC/Основной подсчет ссылок.md",
-    "PHP/Сборка мусора  GC/Сбор циклических ссфлок.md",
     "PHP/README.md",
     "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.md",
     "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.png",
