@@ -1,0 +1,4 @@
+- Application
+- Infrastructure
+- Presenter
+- Domain
