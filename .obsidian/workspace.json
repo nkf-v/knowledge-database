@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer since/DRY.md",
+                "file": "Computer since/KISS.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DRY"
+              "title": "KISS"
             }
           }
         ]
@@ -164,15 +164,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa13b85ee42ea365",
+  "active": "37913dc642253de0",
   "lastOpenFiles": [
+    "Computer since/DRY.md",
     "PHP/Сборка мусора  GC/Основной подсчет ссылок.md",
     "PHP/Сборка мусора  GC/Сбор циклических ссфлок.md",
     "PHP/Сборка мусора  GC/Вопросы производительности.md",
     "Тетсирование/Test Doubles.md",
     "Computer since/SOLID.md",
     "Computer since/KISS.md",
-    "Computer since/DRY.md",
     "Computer since/YAGNI.md",
     "Computer since/Слои архитектуры/Unknown Монолит.md",
     "Security/Методы шифрования",
