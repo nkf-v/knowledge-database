@@ -4,137 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "10275ff3ba67a878",
+        "id": "0d2ed1f6cce2cbe8",
         "type": "tabs",
         "children": [
           {
-            "id": "f1916001aef64606",
+            "id": "fa13b85ee42ea365",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHP/Сборка мусора  GC/Основной подсчет ссылок.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Основной подсчет ссылок"
-            }
-          },
-          {
-            "id": "8abfdef18eb14819",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHP/Сборка мусора  GC/Сбор циклических ссфлок.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Сбор циклических ссфлок"
-            }
-          },
-          {
-            "id": "528d09387c46fcbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHP/Сборка мусора  GC/Вопросы производительности.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Вопросы производительности"
-            }
-          },
-          {
-            "id": "18eb354f2b0e02c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Тетсирование/Test Doubles.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Test Doubles"
-            }
-          },
-          {
-            "id": "9e32399a8a742e4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer since/SOLID.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "SOLID"
-            }
-          },
-          {
-            "id": "7e64219b6492a7bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer since/KISS.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "KISS"
-            }
-          },
-          {
-            "id": "f2493fd58d34ed87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer since/DRY.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "DRY"
-            }
-          },
-          {
-            "id": "662858bcc90490fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer since/YAGNI.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "YAGNI"
-            }
-          },
-          {
-            "id": "33d6ae140dc345bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer since/Слои архитектуры/Unknown Монолит.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Unknown Монолит"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,28 +156,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33d6ae140dc345bc",
+  "active": "fa13b85ee42ea365",
   "lastOpenFiles": [
-    "Security/Методы шифрования",
-    "Security",
+    "PHP/Сборка мусора  GC/Основной подсчет ссылок.md",
+    "PHP/Сборка мусора  GC/Сбор циклических ссфлок.md",
+    "PHP/Сборка мусора  GC/Вопросы производительности.md",
+    "Тетсирование/Test Doubles.md",
+    "Computer since/SOLID.md",
+    "Computer since/KISS.md",
+    "Computer since/DRY.md",
     "Computer since/YAGNI.md",
     "Computer since/Слои архитектуры/Unknown Монолит.md",
+    "Security/Методы шифрования",
+    "Security",
     "Computer since/Слои архитектуры",
-    "Computer since/DRY.md",
-    "Computer since/KISS.md",
-    "Computer since/SOLID.md",
-    "Тетсирование/Test Doubles.md",
     "Computer since",
-    "PHP/Сборка мусора  GC/Вопросы производительности.md",
     "Тетсирование",
     "Pasted image 20241202160040.png",
-    "PHP/Сборка мусора  GC/Сбор циклических ссфлок.md",
     "Pasted image 20241202154150.png",
-    "PHP/Сборка мусора  GC/Основной подсчет ссылок.md",
     "PHP/README.md",
     "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.md",
     "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.png",
