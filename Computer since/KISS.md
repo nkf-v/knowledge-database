@@ -1,0 +1,1 @@
+__KISS - Делай проще (Keep it sinmple., stupid)__
