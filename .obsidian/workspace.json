@@ -164,15 +164,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37913dc642253de0",
+  "active": "fa13b85ee42ea365",
   "lastOpenFiles": [
     "Computer since/DRY.md",
+    "Computer since/KISS.md",
     "PHP/Сборка мусора  GC/Основной подсчет ссылок.md",
     "PHP/Сборка мусора  GC/Сбор циклических ссфлок.md",
     "PHP/Сборка мусора  GC/Вопросы производительности.md",
     "Тетсирование/Test Doubles.md",
     "Computer since/SOLID.md",
-    "Computer since/KISS.md",
     "Computer since/YAGNI.md",
     "Computer since/Слои архитектуры/Unknown Монолит.md",
     "Security/Методы шифрования",
