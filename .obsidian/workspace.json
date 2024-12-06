@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer since/SOLID.md",
+                "file": "Computer since/SOLID/1. S – Single Responsibility.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SOLID"
+              "title": "1. S – Single Responsibility"
+            }
+          },
+          {
+            "id": "fbe95bfb4c3953b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer since/SOLID/2. O — Open-Closed.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2. O — Open-Closed"
+            }
+          },
+          {
+            "id": "0e409804ce40fd2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer since/SOLID/3. L — Liskov Substitution.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "3. L — Liskov Substitution"
+            }
+          },
+          {
+            "id": "09caca00917b8a24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer since/SOLID/4. I — Interface Segregation.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "4. I — Interface Segregation"
+            }
+          },
+          {
+            "id": "f3eb3456f0d9c3f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer since/SOLID/3. L — Liskov Substitution.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "3. L — Liskov Substitution"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "397b07c84ab8e901",
@@ -184,10 +241,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa13b85ee42ea365",
+  "active": "f3eb3456f0d9c3f2",
   "lastOpenFiles": [
+    "Computer since/SOLID/4. I — Interface Segregation.md",
+    "Computer since/SOLID/5. D — Dependency Inversion.md",
+    "Computer since/SOLID/3. L — Liskov Substitution.md",
+    "Computer since/SOLID/2. O — Open-Closed.md",
+    "Computer since/SOLID/1. S – Single Responsibility.md",
+    "Computer since/SOLID",
     "Computer since/DRY.md",
-    "Computer since/SOLID.md",
     "Computer since/YAGNI.md",
     "Computer since/KISS.md",
     "PHP/Сборка мусора  GC/Основной подсчет ссылок.md",
