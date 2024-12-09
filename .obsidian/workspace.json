@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2437be9a69ea6850",
+        "id": "a506907b28fba749",
         "type": "tabs",
         "children": [
           {
-            "id": "8b93ac55b4634126",
+            "id": "c858cd76f5d57551",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -155,11 +155,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b93ac55b4634126",
+  "active": "c858cd76f5d57551",
   "lastOpenFiles": [
     "Computer since/YAGNI.md",
     "Computer since/KISS.md",
