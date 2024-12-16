@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer since/ООП/Принципы/Gjkbvjhabpv.md",
+                "file": "Computer since/ООП/Принципы/Абстракция.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gjkbvjhabpv"
+              "title": "Абстракция"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "c858cd76f5d57551",
   "lastOpenFiles": [
+    "Computer since/ООП/Принципы/Полиморфизм.md",
+    "Computer since/ООП/Принципы/Абстракция.md",
     "Computer since/ООП/Принципы/Наследование.md",
-    "Computer since/ООП/Принципы/Gjkbvjhabpv.md",
     "Computer since/ООП/Принципы/Инкапсуляция.md",
     "PHP/PSR/PSR-4.md",
     "Computer since/ООП/Принципы",
@@ -200,7 +201,6 @@
     "Тетсирование/Test Doubles.md",
     "БД/SQL/DDL.md",
     "Computer since/ООП/KISS.md",
-    "Computer since/ООП/DRY.md",
     "Pasted image 20241202160040.png",
     "Pasted image 20241202154150.png",
     "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.png",
