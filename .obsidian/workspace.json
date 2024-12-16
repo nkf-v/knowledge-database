@@ -11,10 +11,14 @@
             "id": "c858cd76f5d57551",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Security/CSRF.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CSRF"
             }
           }
         ]
@@ -155,41 +159,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "c858cd76f5d57551",
   "lastOpenFiles": [
-    "Computer since/YAGNI.md",
-    "Computer since/KISS.md",
-    "Computer since/DRY.md",
+    "Computer since/Слои архитектуры/History.md",
+    "Security/CSRF.md",
+    "Computer since/Хэширование.md",
+    "Computer since/Слои архитектуры/MVC",
+    "Computer since/ORM/Unit Of Work.md",
+    "Computer since/ORM/Untitled.md",
+    "Computer since/ORM/Data Mapper.md",
+    "Computer since/ORM/Active Record.md",
+    "Computer since/Cache/Проблема Cache stampede.md",
+    "Computer since/ORM",
+    "Computer since/GoF/Поведенчиские",
+    "Computer since/GoF/Структурные",
+    "Computer since/GoF/Пораждающие",
+    "Computer since/GoF",
+    "Computer since/Cache/Вытеснение кэша.md",
+    "Computer since/ООП/YAGNI.md",
+    "Computer since/Cache",
+    "Тетсирование/Mock Aren't Stubs.md",
+    "Computer since/ООП",
+    "Тетсирование/Test Doubles.md",
+    "БД/SQL/DDL.md",
+    "Тестирование",
+    "PHP/Libs/Mockery",
+    "Computer since/ООП/KISS.md",
+    "Computer since/ООП/DRY.md",
     "Computer since/Слои архитектуры/Unknown Монолит.md",
-    "Computer since/SOLID/1. S – Single Responsibility.md",
-    "Computer since/SOLID/2. O — Open-Closed.md",
-    "Computer since/SOLID/3. L — Liskov Substitution.md",
-    "Computer since/SOLID/4. I — Interface Segregation.md",
-    "Computer since/SOLID/5. D — Dependency Inversion.md",
-    "Computer since/SOLID",
+    "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
+    "Computer since/ООП/SOLID/2. O — Open-Closed.md",
+    "Computer since/ООП/SOLID/3. L — Liskov Substitution.md",
+    "Computer since/ООП/SOLID/4. I — Interface Segregation.md",
+    "Computer since/ООП/SOLID/5. D — Dependency Inversion.md",
     "PHP/Сборка мусора  GC/Основной подсчет ссылок.md",
     "PHP/Сборка мусора  GC/Сбор циклических ссфлок.md",
     "PHP/Сборка мусора  GC/Вопросы производительности.md",
-    "Тетсирование/Test Doubles.md",
-    "Security/Методы шифрования",
-    "Security",
-    "Computer since/Слои архитектуры",
-    "Computer since",
-    "Тетсирование",
     "Pasted image 20241202160040.png",
     "Pasted image 20241202154150.png",
     "PHP/README.md",
     "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.md",
     "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.png",
-    "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.svg",
-    "Excalidraw",
-    "PHP/Сборка мусора  GC.md",
-    "PHP/Сборка мусора  GC",
-    "Основной.md",
-    "PHP",
-    "Добро пожаловать.md"
+    "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.svg"
   ]
 }
