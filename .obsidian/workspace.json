@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/CSRF.md",
+                "file": "БД/SQL/JOIN.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CSRF"
+              "title": "JOIN"
             }
           }
         ]
@@ -165,10 +165,12 @@
   },
   "active": "c858cd76f5d57551",
   "lastOpenFiles": [
+    "PHP/Типы данных",
+    "Security/CSRF.md",
+    "БД/SQL/JOIN.md",
     "Очереди/RabbitMQ",
     "Очереди",
     "Computer since/Слои архитектуры/History.md",
-    "Security/CSRF.md",
     "Computer since/Хэширование.md",
     "Computer since/Слои архитектуры/MVC",
     "Computer since/ORM/Unit Of Work.md",
@@ -188,7 +190,6 @@
     "Computer since/ООП",
     "Тетсирование/Test Doubles.md",
     "БД/SQL/DDL.md",
-    "Тестирование",
     "Computer since/ООП/KISS.md",
     "Computer since/ООП/DRY.md",
     "Computer since/Слои архитектуры/Unknown Монолит.md",
@@ -202,7 +203,6 @@
     "PHP/Сборка мусора  GC/Вопросы производительности.md",
     "Pasted image 20241202160040.png",
     "Pasted image 20241202154150.png",
-    "PHP/README.md",
     "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.png",
     "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.svg"
   ]
