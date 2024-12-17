@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer since/ООП/Принципы/Абстракция.md",
+                "file": "Тетсирование/Test Doubles.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Абстракция"
+              "title": "Test Doubles"
             }
           }
         ]
@@ -159,13 +159,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "c858cd76f5d57551",
   "lastOpenFiles": [
-    "Computer since/ООП/Принципы/Полиморфизм.md",
+    "PHP/Сборка мусора  GC/Вопросы производительности.md",
+    "PHP/Сборка мусора  GC/Основной подсчет ссылок.md",
+    "PHP/Сборка мусора  GC/Сбор циклических ссфлок.md",
     "Computer since/ООП/Принципы/Абстракция.md",
+    "Computer since/ООП/Принципы/Полиморфизм.md",
     "Computer since/ООП/Принципы/Наследование.md",
     "Computer since/ООП/Принципы/Инкапсуляция.md",
     "PHP/PSR/PSR-4.md",
@@ -197,9 +201,6 @@
     "Computer since/Cache/Вытеснение кэша.md",
     "Computer since/ООП/YAGNI.md",
     "Тетсирование/Mock Aren't Stubs.md",
-    "Тетсирование/Test Doubles.md",
-    "БД/SQL/DDL.md",
-    "Computer since/ООП/KISS.md",
     "Pasted image 20241202160040.png",
     "Pasted image 20241202154150.png",
     "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.png",
