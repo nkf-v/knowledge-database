@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тетсирование/Test Doubles.md",
+                "file": "Computer since/ООП/SOLID/3. L — Liskov Substitution.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Test Doubles"
+              "title": "3. L — Liskov Substitution"
             }
           }
         ]
@@ -164,6 +164,7 @@
   },
   "active": "c858cd76f5d57551",
   "lastOpenFiles": [
+    "Тетсирование/Test Doubles.md",
     "PHP/Сборка мусора  GC/Вопросы производительности.md",
     "PHP/Сборка мусора  GC/Основной подсчет ссылок.md",
     "PHP/Сборка мусора  GC/Сбор циклических ссфлок.md",
@@ -199,7 +200,6 @@
     "Computer since/Cache/Проблема Cache stampede.md",
     "Computer since/Cache/Вытеснение кэша.md",
     "Computer since/ООП/YAGNI.md",
-    "Тетсирование/Mock Aren't Stubs.md",
     "Pasted image 20241202160040.png",
     "Pasted image 20241202154150.png",
     "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.png",
