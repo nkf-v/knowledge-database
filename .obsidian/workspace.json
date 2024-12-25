@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer since/ООП/SOLID/3. L — Liskov Substitution.md",
+                "file": "Computer since/Other Patterns/Table Module.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "3. L — Liskov Substitution"
+              "title": "Table Module"
             }
           }
         ]
@@ -164,6 +164,9 @@
   },
   "active": "c858cd76f5d57551",
   "lastOpenFiles": [
+    "Computer since/ООП/SOLID/3. L — Liskov Substitution.md",
+    "Computer since/Other Patterns/Table Module.md",
+    "Computer since/Other Patterns",
     "Тетсирование/Test Doubles.md",
     "PHP/Сборка мусора  GC/Вопросы производительности.md",
     "PHP/Сборка мусора  GC/Основной подсчет ссылок.md",
@@ -189,7 +192,6 @@
     "Unix",
     "PHP/Типы данных/Список типов.md",
     "БД/SQL/JOIN.md",
-    "PHP/Типы данных",
     "Security/CSRF.md",
     "Computer since/Слои архитектуры/History.md",
     "Computer since/Хэширование.md",
@@ -198,8 +200,6 @@
     "Computer since/ORM/Data Mapper.md",
     "Computer since/ORM/Active Record.md",
     "Computer since/Cache/Проблема Cache stampede.md",
-    "Computer since/Cache/Вытеснение кэша.md",
-    "Computer since/ООП/YAGNI.md",
     "Pasted image 20241202160040.png",
     "Pasted image 20241202154150.png",
     "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.png",
