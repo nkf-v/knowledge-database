@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Test Doubles"
             }
+          },
+          {
+            "id": "165b188b6e2c4e27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "План написания/План написания.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "План написания"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,15 +174,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7621385181df318b",
+  "active": "165b188b6e2c4e27",
   "lastOpenFiles": [
+    "Тетсирование/Test Doubles.md",
+    "План написания/План написания.md",
+    "План написания",
     "Computer since/Other Patterns/Table Module.md",
     "Computer since/ООП/SOLID/3. L — Liskov Substitution.md",
     "Computer since/Other Patterns",
-    "Тетсирование/Test Doubles.md",
     "PHP/Сборка мусора  GC/Вопросы производительности.md",
     "PHP/Сборка мусора  GC/Основной подсчет ссылок.md",
     "PHP/Сборка мусора  GC/Сбор циклических ссфлок.md",
@@ -189,7 +207,6 @@
     "PHP/SPL",
     "PHP/Типы данных/abstract class & interface.md",
     "Unix/Команды",
-    "Unix",
     "PHP/Типы данных/Список типов.md",
     "БД/SQL/JOIN.md",
     "Security/CSRF.md",
@@ -199,7 +216,6 @@
     "Computer since/ORM/Untitled.md",
     "Computer since/ORM/Data Mapper.md",
     "Computer since/ORM/Active Record.md",
-    "Computer since/Cache/Проблема Cache stampede.md",
     "Pasted image 20241202160040.png",
     "Pasted image 20241202154150.png",
     "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.png",
