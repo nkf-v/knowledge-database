@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a506907b28fba749",
+        "id": "7a459cfc5b223973",
         "type": "tabs",
         "children": [
           {
-            "id": "c858cd76f5d57551",
+            "id": "7621385181df318b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer since/Other Patterns/Table Module.md",
+                "file": "Тетсирование/Test Doubles.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Table Module"
+              "title": "Test Doubles"
             }
           }
         ]
@@ -162,10 +162,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c858cd76f5d57551",
+  "active": "7621385181df318b",
   "lastOpenFiles": [
-    "Computer since/ООП/SOLID/3. L — Liskov Substitution.md",
     "Computer since/Other Patterns/Table Module.md",
+    "Computer since/ООП/SOLID/3. L — Liskov Substitution.md",
     "Computer since/Other Patterns",
     "Тетсирование/Test Doubles.md",
     "PHP/Сборка мусора  GC/Вопросы производительности.md",
