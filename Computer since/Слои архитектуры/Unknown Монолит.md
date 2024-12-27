@@ -1,4 +1,0 @@
-- Application
-- Infrastructure
-- Presenter
-- Domain

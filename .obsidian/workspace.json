@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "План написания/План написания.md",
+                "file": "Computer since/Слои архитектуры/Слои.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "План написания"
+              "title": "Слои"
             }
           }
         ],
@@ -180,8 +180,8 @@
   },
   "active": "165b188b6e2c4e27",
   "lastOpenFiles": [
-    "Тетсирование/Test Doubles.md",
     "План написания/План написания.md",
+    "Тетсирование/Test Doubles.md",
     "План написания",
     "Computer since/Other Patterns/Table Module.md",
     "Computer since/ООП/SOLID/3. L — Liskov Substitution.md",
