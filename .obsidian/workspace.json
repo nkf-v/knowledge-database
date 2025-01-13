@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Методы шифрования/MD5.md",
+                "file": "Security/Методы шифрования/Base64.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "MD5"
+              "title": "Base64"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "22e6c2eb532cd72e",
   "lastOpenFiles": [
-    "Security/Методы шифрования/HMAC.md",
     "Security/Методы шифрования/MD5.md",
+    "Security/Методы шифрования/Base64.md",
+    "Security/Методы шифрования/HMAC.md",
     "Security/CSRF.md",
     "План написания/План написания.md",
     "Тетсирование/Test Doubles.md",
@@ -200,7 +201,6 @@
     "БД/SQL/JOIN.md",
     "Computer since/Слои архитектуры/History.md",
     "Computer since/Хэширование.md",
-    "Computer since/ORM/Unit Of Work.md",
     "Pasted image 20241202160040.png",
     "Pasted image 20241202154150.png",
     "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.png",
