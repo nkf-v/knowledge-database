@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Методы шифрования/HMAC.md",
+                "file": "Security/Методы шифрования/Base64.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HMAC"
+              "title": "Base64"
             }
           }
         ]
@@ -165,8 +165,8 @@
   },
   "active": "22e6c2eb532cd72e",
   "lastOpenFiles": [
-    "Security/Методы шифрования/Base64.md",
     "Security/Методы шифрования/HMAC.md",
+    "Security/Методы шифрования/Base64.md",
     "Security/Методы шифрования/MD5.md",
     "Security/CSRF.md",
     "План написания/План написания.md",
