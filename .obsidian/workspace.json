@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7a459cfc5b223973",
+        "id": "0c369df4495a4c8f",
         "type": "tabs",
         "children": [
           {
-            "id": "7621385181df318b",
+            "id": "22e6c2eb532cd72e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тетсирование/Test Doubles.md",
+                "file": "Security/Методы шифрования/HMAC.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Test Doubles"
-            }
-          },
-          {
-            "id": "165b188b6e2c4e27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer since/Слои архитектуры/Слои.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Слои"
+              "title": "HMAC"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,13 +159,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "165b188b6e2c4e27",
+  "active": "22e6c2eb532cd72e",
   "lastOpenFiles": [
+    "Security/CSRF.md",
+    "Security/Методы шифрования/HMAC.md",
     "План написания/План написания.md",
     "Тетсирование/Test Doubles.md",
+    "Computer since/Слои архитектуры/Слои.md",
     "План написания",
     "Computer since/Other Patterns/Table Module.md",
     "Computer since/ООП/SOLID/3. L — Liskov Substitution.md",
@@ -208,13 +197,10 @@
     "Unix/Команды",
     "PHP/Типы данных/Список типов.md",
     "БД/SQL/JOIN.md",
-    "Security/CSRF.md",
     "Computer since/Слои архитектуры/History.md",
     "Computer since/Хэширование.md",
     "Computer since/ORM/Unit Of Work.md",
     "Computer since/ORM/Untitled.md",
-    "Computer since/ORM/Data Mapper.md",
-    "Computer since/ORM/Active Record.md",
     "Pasted image 20241202160040.png",
     "Pasted image 20241202154150.png",
     "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.png",
