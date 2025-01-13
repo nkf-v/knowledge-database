@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "План написания"
             }
+          },
+          {
+            "id": "0f9044b8226afbed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer since/Слои архитектуры/Слои.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Слои"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,13 +180,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22e6c2eb532cd72e",
+  "active": "0f9044b8226afbed",
   "lastOpenFiles": [
+    "План написания/План написания.md",
     "Security/CSRF Protection.md",
     "Security/Методы шифрования/Base64.md",
     "Security/Методы шифрования/HMAC.md",
     "Security/Методы шифрования/MD5.md",
-    "План написания/План написания.md",
     "Тетсирование/Test Doubles.md",
     "Computer since/Слои архитектуры/Слои.md",
     "План написания",
