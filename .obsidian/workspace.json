@@ -10,15 +10,17 @@
           {
             "id": "22e6c2eb532cd72e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/CSRF Protection.md",
+                "file": "План написания/План написания.md",
                 "mode": "source",
                 "source": true
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "CSRF Protection"
+              "title": "План написания"
             }
           }
         ]
@@ -165,10 +167,10 @@
   },
   "active": "22e6c2eb532cd72e",
   "lastOpenFiles": [
+    "Security/CSRF Protection.md",
     "Security/Методы шифрования/Base64.md",
     "Security/Методы шифрования/HMAC.md",
     "Security/Методы шифрования/MD5.md",
-    "Security/CSRF Protection.md",
     "План написания/План написания.md",
     "Тетсирование/Test Doubles.md",
     "Computer since/Слои архитектуры/Слои.md",
