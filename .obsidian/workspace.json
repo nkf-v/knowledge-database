@@ -15,12 +15,26 @@
               "type": "markdown",
               "state": {
                 "file": "План написания/План написания.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "План написания"
+            }
+          },
+          {
+            "id": "f0dcf02bfb08fecf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHP/Сборка мусора  GC/Сбор циклических ссылок.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Сбор циклических ссылок"
             }
           },
           {
@@ -51,7 +65,8 @@
               "title": "MD5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,13 +204,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22e6c2eb532cd72e",
+  "active": "f0dcf02bfb08fecf",
   "lastOpenFiles": [
-    "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
+    "PHP/Сборка мусора  GC/Основной подсчет ссылок.md",
+    "PHP/Сборка мусора  GC/Вопросы производительности.md",
+    "PHP/Сборка мусора  GC/Сбор циклических ссылок.md",
     "План написания/План написания.md",
+    "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
     "Security/Методы шифрования/MD5.md",
     "Security/Методы шифрования/HMAC.md",
     "Security/Методы шифрования/Base64.md",
@@ -206,9 +225,6 @@
     "Computer since/Other Patterns/Table Module.md",
     "Computer since/ООП/SOLID/3. L — Liskov Substitution.md",
     "Computer since/Other Patterns",
-    "PHP/Сборка мусора  GC/Вопросы производительности.md",
-    "PHP/Сборка мусора  GC/Основной подсчет ссылок.md",
-    "PHP/Сборка мусора  GC/Сбор циклических ссфлок.md",
     "Computer since/ООП/Принципы/Абстракция.md",
     "Computer since/ООП/Принципы/Полиморфизм.md",
     "Computer since/ООП/Принципы/Наследование.md",
