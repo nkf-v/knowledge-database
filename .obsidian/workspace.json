@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/Сборка мусора  GC/Сбор циклических ссылок.md",
+                "file": "PHP/Сборка мусора  GC/1. Основной подсчет ссылок.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Сбор циклических ссылок"
+              "title": "1. Основной подсчет ссылок"
             }
           },
           {
@@ -210,9 +210,17 @@
   },
   "active": "f0dcf02bfb08fecf",
   "lastOpenFiles": [
-    "PHP/Сборка мусора  GC/Основной подсчет ссылок.md",
-    "PHP/Сборка мусора  GC/Вопросы производительности.md",
-    "PHP/Сборка мусора  GC/Сбор циклических ссылок.md",
+    "PHP/Сборка мусора  GC/2. Сбор циклических ссылок.md",
+    "Pasted image 20250114090548.png",
+    "Pasted image 20250114090538.png",
+    "Pasted image 20250114090525.png",
+    "Pasted image 20250114090512.png",
+    "PHP/Сборка мусора  GC/3. Вопросы производительности.md",
+    "PHP/Сборка мусора  GC/1. Основной подсчет ссылок.md",
+    "Pasted image 20250114090317.png",
+    "Pasted image 20250114090307.png",
+    "Pasted image 20250114090255.png",
+    "Pasted image 20250114090245.png",
     "План написания/План написания.md",
     "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
     "Security/Методы шифрования/MD5.md",
@@ -245,10 +253,7 @@
     "Unix/Команды",
     "PHP/Типы данных/Список типов.md",
     "БД/SQL/JOIN.md",
-    "Computer since/Слои архитектуры/History.md",
     "Pasted image 20241202160040.png",
-    "Pasted image 20241202154150.png",
-    "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.png",
-    "Excalidraw/Drawing 2024-11-08 14.24.11.excalidraw.svg"
+    "Pasted image 20241202154150.png"
   ]
 }
