@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/Сборка мусора  GC/1. Основной подсчет ссылок.md",
-                "mode": "preview",
+                "file": "Computer since/ООП/SOLID/3. L — Liskov Substitution.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1. Основной подсчет ссылок"
+              "title": "3. L — Liskov Substitution"
             }
           },
           {
@@ -210,19 +210,20 @@
   },
   "active": "f0dcf02bfb08fecf",
   "lastOpenFiles": [
+    "Computer since/ООП/SOLID/2. O — Open-Closed.md",
+    "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
     "PHP/Сборка мусора  GC/2. Сбор циклических ссылок.md",
+    "PHP/Сборка мусора  GC/1. Основной подсчет ссылок.md",
     "Pasted image 20250114090548.png",
     "Pasted image 20250114090538.png",
     "Pasted image 20250114090525.png",
     "Pasted image 20250114090512.png",
     "PHP/Сборка мусора  GC/3. Вопросы производительности.md",
-    "PHP/Сборка мусора  GC/1. Основной подсчет ссылок.md",
     "Pasted image 20250114090317.png",
     "Pasted image 20250114090307.png",
     "Pasted image 20250114090255.png",
     "Pasted image 20250114090245.png",
     "План написания/План написания.md",
-    "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
     "Security/Методы шифрования/MD5.md",
     "Security/Методы шифрования/HMAC.md",
     "Security/Методы шифрования/Base64.md",
