@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer since/Слои архитектуры/Слои.md",
+                "file": "Security/Методы шифрования/MD5.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Слои"
+              "title": "MD5"
             }
           }
         ],
@@ -182,13 +182,13 @@
   },
   "active": "0f9044b8226afbed",
   "lastOpenFiles": [
-    "План написания/План написания.md",
-    "Security/CSRF Protection.md",
-    "Security/Методы шифрования/Base64.md",
     "Security/Методы шифрования/HMAC.md",
     "Security/Методы шифрования/MD5.md",
-    "Тетсирование/Test Doubles.md",
+    "Security/Методы шифрования/Base64.md",
+    "Security/CSRF Protection.md",
     "Computer since/Слои архитектуры/Слои.md",
+    "План написания/План написания.md",
+    "Тетсирование/Test Doubles.md",
     "План написания",
     "Computer since/Other Patterns/Table Module.md",
     "Computer since/ООП/SOLID/3. L — Liskov Substitution.md",
