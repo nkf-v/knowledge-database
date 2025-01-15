@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer since/ООП/SOLID/3. L — Liskov Substitution.md",
-                "mode": "source",
+                "file": "PHP/Сборка мусора  GC/2. Сбор циклических ссылок.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "3. L — Liskov Substitution"
+              "title": "2. Сбор циклических ссылок"
             }
           },
           {
@@ -204,35 +204,36 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "f0dcf02bfb08fecf",
   "lastOpenFiles": [
-    "Computer since/ООП/SOLID/2. O — Open-Closed.md",
-    "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
+    "PHP/Сборка мусора  GC/3. Вопросы производительности.md",
     "PHP/Сборка мусора  GC/2. Сбор циклических ссылок.md",
     "PHP/Сборка мусора  GC/1. Основной подсчет ссылок.md",
+    "Тетсирование/Test Doubles.md",
+    "Security/Методы шифрования/MD5.md",
+    "Security/CSRF Protection.md",
+    "Computer since/ООП/SOLID/5. D — Dependency Inversion.md",
+    "Computer since/ООП/SOLID/4. I — Interface Segregation.md",
+    "Computer since/ООП/SOLID/3. L — Liskov Substitution.md",
+    "Computer since/ООП/SOLID/2. O — Open-Closed.md",
+    "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
     "Pasted image 20250114090548.png",
     "Pasted image 20250114090538.png",
     "Pasted image 20250114090525.png",
     "Pasted image 20250114090512.png",
-    "PHP/Сборка мусора  GC/3. Вопросы производительности.md",
     "Pasted image 20250114090317.png",
     "Pasted image 20250114090307.png",
     "Pasted image 20250114090255.png",
     "Pasted image 20250114090245.png",
     "План написания/План написания.md",
-    "Security/Методы шифрования/MD5.md",
     "Security/Методы шифрования/HMAC.md",
     "Security/Методы шифрования/Base64.md",
-    "Security/CSRF Protection.md",
     "Computer since/Слои архитектуры/Слои.md",
-    "Тетсирование/Test Doubles.md",
     "План написания",
     "Computer since/Other Patterns/Table Module.md",
-    "Computer since/ООП/SOLID/3. L — Liskov Substitution.md",
     "Computer since/Other Patterns",
     "Computer since/ООП/Принципы/Абстракция.md",
     "Computer since/ООП/Принципы/Полиморфизм.md",
@@ -252,8 +253,6 @@
     "PHP/SPL",
     "PHP/Типы данных/abstract class & interface.md",
     "Unix/Команды",
-    "PHP/Типы данных/Список типов.md",
-    "БД/SQL/JOIN.md",
     "Pasted image 20241202160040.png",
     "Pasted image 20241202154150.png"
   ]
