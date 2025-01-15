@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "План написания"
             }
+          },
+          {
+            "id": "9e974fea6854b943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security/Vault.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Vault"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,16 +180,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22e6c2eb532cd72e",
+  "active": "9e974fea6854b943",
   "lastOpenFiles": [
+    "Security/Верификация запросов к API банков.md",
+    "Security/Vault.md",
+    "Security/Code injection (eval).md",
+    "Security/CSRF Protection.md",
+    "Security/CRLF Injection.md",
+    "Security/XSS.md",
+    "Security/Path Traversal.md",
+    "Security/SQL Injection.md",
+    "Security/Хранение паролей в БД.md",
+    "План написания/План написания.md",
     "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
     "Security/Методы шифрования/MD5.md",
-    "План написания/План написания.md",
     "PHP/Сборка мусора  GC/2. Сбор циклических ссылок.md",
     "PHP/Сборка мусора  GC/3. Вопросы производительности.md",
     "PHP/Сборка мусора  GC/1. Основной подсчет ссылок.md",
     "Тетсирование/Test Doubles.md",
-    "Security/CSRF Protection.md",
     "Computer since/ООП/SOLID/5. D — Dependency Inversion.md",
     "Computer since/ООП/SOLID/4. I — Interface Segregation.md",
     "Computer since/ООП/SOLID/3. L — Liskov Substitution.md",
@@ -195,21 +218,13 @@
     "Computer since/Other Patterns",
     "Computer since/ООП/Принципы/Абстракция.md",
     "Computer since/ООП/Принципы/Полиморфизм.md",
-    "Computer since/ООП/Принципы/Наследование.md",
-    "Computer since/ООП/Принципы/Инкапсуляция.md",
-    "PHP/PSR/PSR-4.md",
     "Computer since/ООП/Принципы",
-    "Computer since/ООП/Untitled.md",
-    "PHP/Cookie/Untitled.md",
     "PHP/PSR",
     "PHP/Session",
-    "PHP/Composer/composer.json.md",
     "PHP/Cookie",
-    "PHP/Типы данных/array.md",
     "PHP/Composer",
     "PHP/XDebug",
     "PHP/SPL",
-    "PHP/Типы данных/abstract class & interface.md",
     "Unix/Команды",
     "Pasted image 20241202160040.png",
     "Pasted image 20241202154150.png"
