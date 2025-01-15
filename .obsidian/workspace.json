@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Vault.md",
+                "file": "Security/SQL Injection.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Vault"
+              "title": "SQL Injection"
             }
           }
         ],
@@ -182,15 +182,15 @@
   },
   "active": "9e974fea6854b943",
   "lastOpenFiles": [
+    "Security/CRLF Injection.md",
+    "Security/CSRF Protection.md",
+    "Security/Code injection (eval).md",
+    "Security/Хранение паролей в БД.md",
     "Security/Верификация запросов к API банков.md",
     "Security/Vault.md",
-    "Security/Code injection (eval).md",
-    "Security/CSRF Protection.md",
-    "Security/CRLF Injection.md",
     "Security/XSS.md",
     "Security/Path Traversal.md",
     "Security/SQL Injection.md",
-    "Security/Хранение паролей в БД.md",
     "План написания/План написания.md",
     "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
     "Security/Методы шифрования/MD5.md",
