@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/CRLF Injection.md",
+                "file": "Security/XSS.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CRLF Injection"
+              "title": "XSS"
             }
           }
         ],
@@ -182,16 +182,16 @@
   },
   "active": "9e974fea6854b943",
   "lastOpenFiles": [
+    "Security/Vault.md",
+    "Security/CRLF Injection.md",
+    "Security/XSS.md",
     "Security/CSRF Protection.md",
     "HTTP/CRLF.md",
-    "Security/CRLF Injection.md",
     "HTTP",
     "Security/Code injection (eval).md",
     "Security/SQL Injection.md",
     "Security/Хранение паролей в БД.md",
     "Security/Верификация запросов к API банков.md",
-    "Security/Vault.md",
-    "Security/XSS.md",
     "Security/Path Traversal.md",
     "План написания/План написания.md",
     "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
