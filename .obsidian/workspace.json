@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Path Traversal.md",
+                "file": "Security/XSS.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Path Traversal"
+              "title": "XSS"
             }
           }
         ],
@@ -182,17 +182,17 @@
   },
   "active": "9e974fea6854b943",
   "lastOpenFiles": [
-    "Security/SQL Injection.md",
     "Security/Vault.md",
-    "Security/XSS.md",
-    "Security/CRLF Injection.md",
+    "Security/SQL Injection.md",
+    "Security/Path Traversal.md",
     "Security/CSRF Protection.md",
-    "HTTP/CRLF.md",
-    "HTTP",
+    "Security/CRLF Injection.md",
     "Security/Code injection (eval).md",
     "Security/Хранение паролей в БД.md",
     "Security/Верификация запросов к API банков.md",
-    "Security/Path Traversal.md",
+    "Security/XSS.md",
+    "HTTP/CRLF.md",
+    "HTTP",
     "План написания/План написания.md",
     "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
     "Security/Методы шифрования/MD5.md",
