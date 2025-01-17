@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/XSS.md",
+                "file": "Security/Хранение паролей в БД.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "XSS"
+              "title": "Хранение паролей в БД"
             }
           }
         ],
@@ -182,6 +182,7 @@
   },
   "active": "9e974fea6854b943",
   "lastOpenFiles": [
+    "Security/XSS.md",
     "Security/Vault.md",
     "Security/SQL Injection.md",
     "Security/Path Traversal.md",
@@ -190,7 +191,6 @@
     "Security/Code injection (eval).md",
     "Security/Хранение паролей в БД.md",
     "Security/Верификация запросов к API банков.md",
-    "Security/XSS.md",
     "HTTP/CRLF.md",
     "HTTP",
     "План написания/План написания.md",
