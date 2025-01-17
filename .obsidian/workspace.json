@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/SQL Injection.md",
+                "file": "Security/Code injection (eval).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SQL Injection"
+              "title": "Code injection (eval)"
             }
           }
         ],
@@ -176,20 +176,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "9e974fea6854b943",
   "lastOpenFiles": [
+    "Security/SQL Injection.md",
+    "Security/Code injection (eval).md",
     "Security/CRLF Injection.md",
     "Security/CSRF Protection.md",
-    "Security/Code injection (eval).md",
     "Security/Хранение паролей в БД.md",
     "Security/Верификация запросов к API банков.md",
     "Security/Vault.md",
     "Security/XSS.md",
     "Security/Path Traversal.md",
-    "Security/SQL Injection.md",
     "План написания/План написания.md",
     "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
     "Security/Методы шифрования/MD5.md",
