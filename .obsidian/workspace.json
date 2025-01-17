@@ -180,12 +180,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37913dc642253de0",
+  "active": "9e974fea6854b943",
   "lastOpenFiles": [
+    "Security/CSRF Protection.md",
+    "HTTP/CRLF.md",
+    "Security/CRLF Injection.md",
+    "HTTP",
     "Security/Code injection (eval).md",
     "Security/SQL Injection.md",
-    "Security/CRLF Injection.md",
-    "Security/CSRF Protection.md",
     "Security/Хранение паролей в БД.md",
     "Security/Верификация запросов к API банков.md",
     "Security/Vault.md",
@@ -217,7 +219,6 @@
     "Computer since/Other Patterns/Table Module.md",
     "Computer since/Other Patterns",
     "Computer since/ООП/Принципы/Абстракция.md",
-    "Computer since/ООП/Принципы/Полиморфизм.md",
     "Computer since/ООП/Принципы",
     "PHP/PSR",
     "PHP/Session",
@@ -225,7 +226,6 @@
     "PHP/Composer",
     "PHP/XDebug",
     "PHP/SPL",
-    "Unix/Команды",
     "Pasted image 20241202160040.png",
     "Pasted image 20241202154150.png"
   ]
