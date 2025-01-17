@@ -180,8 +180,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e974fea6854b943",
+  "active": "37913dc642253de0",
   "lastOpenFiles": [
+    "Security/Методы шифрования/bcrypt.md",
+    "Security/Хранение паролей в БД.md",
     "Security/XSS.md",
     "Security/Vault.md",
     "Security/SQL Injection.md",
@@ -189,7 +191,6 @@
     "Security/CSRF Protection.md",
     "Security/CRLF Injection.md",
     "Security/Code injection (eval).md",
-    "Security/Хранение паролей в БД.md",
     "Security/Верификация запросов к API банков.md",
     "HTTP/CRLF.md",
     "HTTP",
@@ -218,7 +219,6 @@
     "План написания",
     "Computer since/Other Patterns/Table Module.md",
     "Computer since/Other Patterns",
-    "Computer since/ООП/Принципы/Абстракция.md",
     "Computer since/ООП/Принципы",
     "PHP/PSR",
     "PHP/Session",
