@@ -29,16 +29,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Хранение паролей в БД.md",
+                "file": "Security/Code injection (eval).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Хранение паролей в БД"
+              "title": "Code injection (eval)"
+            }
+          },
+          {
+            "id": "fd6d7ad2667063e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security/Code injection (eval).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Code injection (eval)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,13 +190,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "37913dc642253de0",
+  "active": "fd6d7ad2667063e3",
   "lastOpenFiles": [
-    "Security/Методы шифрования/bcrypt.md",
+    "План написания/План написания.md",
     "Security/Хранение паролей в БД.md",
+    "Security/Методы шифрования/bcrypt.md",
     "Security/XSS.md",
     "Security/Vault.md",
     "Security/SQL Injection.md",
@@ -193,7 +209,6 @@
     "Security/Верификация запросов к API банков.md",
     "HTTP/CRLF.md",
     "HTTP",
-    "План написания/План написания.md",
     "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
     "Security/Методы шифрования/MD5.md",
     "PHP/Сборка мусора  GC/2. Сбор циклических ссылок.md",
