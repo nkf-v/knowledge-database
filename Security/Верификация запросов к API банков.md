@@ -1,4 +1,4 @@
-## Индемпотентность
+## Идемпотентность
 
 Выполнение запроса позволяет выполнить несколько запросов с гарантией что состояние изменится только один раз.
 
@@ -33,17 +33,25 @@ IODC
 Header -> client_id
 Header -> client_sercret
 
-Токен в последствии используется в Header -> Authorithation -> Bearer Token
+Токен встраивается в запрос в Header -> Authorization -> Bearer token
 
 ---
 
 ## Использование кредов
 
+Креды либо формируются самостоятельно либо выдаются банком партнеру в usernamse и password
 
+Креды кодируется через base64
+
+> base64(username:password) -> token
+
+Полученный токен встраивается в запрос в Header -> Authorization -> Bearer token
 
 ---
 
 ## Использование токена
 
-> Bearer _accessToken_
+Токен выдает банковская система
+
+Токен встраивается в запрос в Header -> Authorization -> Bearer token
 
