@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Code injection (eval).md",
+                "file": "Security/Верификация запросов к API банков.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Code injection (eval)"
+              "title": "Верификация запросов к API банков"
             }
           }
         ],
@@ -196,17 +196,17 @@
   },
   "active": "fd6d7ad2667063e3",
   "lastOpenFiles": [
-    "План написания/План написания.md",
     "Security/Хранение паролей в БД.md",
-    "Security/Методы шифрования/bcrypt.md",
-    "Security/XSS.md",
-    "Security/Vault.md",
-    "Security/SQL Injection.md",
-    "Security/Path Traversal.md",
-    "Security/CSRF Protection.md",
-    "Security/CRLF Injection.md",
     "Security/Code injection (eval).md",
     "Security/Верификация запросов к API банков.md",
+    "Security/CRLF Injection.md",
+    "Security/CSRF Protection.md",
+    "Security/Path Traversal.md",
+    "Security/SQL Injection.md",
+    "Security/Vault.md",
+    "Security/XSS.md",
+    "План написания/План написания.md",
+    "Security/Методы шифрования/bcrypt.md",
     "HTTP/CRLF.md",
     "HTTP",
     "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
