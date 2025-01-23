@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "План написания"
             }
+          },
+          {
+            "id": "523d837a9dc89fed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer since/Хэширование.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Хэширование"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,32 +180,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22e6c2eb532cd72e",
+  "active": "523d837a9dc89fed",
   "lastOpenFiles": [
+    "Security/Методы шифрования/MD5.md",
+    "Security/Методы шифрования/Base64.md",
+    "Security/Методы шифрования/bcrypt.md",
+    "Computer since/Хэширование.md",
+    "Computer since/ORM/Lazy Loading (Eager Loading).md",
+    "Computer since/ORM/Unit Of Work.md",
+    "Computer since/ORM/Data Mapper.md",
+    "Computer since/ORM/Active Record.md",
+    "Computer since/Cache/ttl.md",
+    "Computer since/Cache/Runtime cache.md",
+    "Computer since/Cache/Проблема Cache stampede.md",
+    "Computer since/Cache/Вытеснение кэша.md",
+    "БД/SQL/EXPLAIN.md",
+    "PHP/Libs/phpunit",
+    "БД/SQL/SELECT/Оптимизация запросов.md",
+    "БД/SQL/SELECT/OFFSET.md",
+    "БД/SQL/SELECT/LIMIT.md",
+    "БД/SQL/JOIN.md",
+    "БД/SQL/SELECT",
+    "БД/SQL/DDL.md",
+    "БД/SQL/DDL",
+    "План написания/План написания.md",
     "Security/Code injection (eval).md",
     "Security/Path Traversal.md",
     "Security/CSRF Protection.md",
     "Security/CRLF Injection.md",
     "Security/Хранение паролей в БД.md",
     "Security/Верификация запросов к API банков.md",
-    "Security/Методы шифрования/MD5.md",
-    "Security/Методы шифрования/bcrypt.md",
-    "Security/Методы шифрования/Base64.md",
     "Security/SQL Injection.md",
-    "Security/Vault.md",
-    "Security/XSS.md",
-    "План написания/План написания.md",
-    "HTTP/CRLF.md",
     "HTTP",
-    "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
-    "PHP/Сборка мусора  GC/2. Сбор циклических ссылок.md",
-    "PHP/Сборка мусора  GC/3. Вопросы производительности.md",
-    "PHP/Сборка мусора  GC/1. Основной подсчет ссылок.md",
-    "Тетсирование/Test Doubles.md",
-    "Computer since/ООП/SOLID/5. D — Dependency Inversion.md",
-    "Computer since/ООП/SOLID/4. I — Interface Segregation.md",
-    "Computer since/ООП/SOLID/3. L — Liskov Substitution.md",
-    "Computer since/ООП/SOLID/2. O — Open-Closed.md",
     "Pasted image 20250114090548.png",
     "Pasted image 20250114090538.png",
     "Pasted image 20250114090525.png",
@@ -199,18 +220,12 @@
     "Pasted image 20250114090307.png",
     "Pasted image 20250114090255.png",
     "Pasted image 20250114090245.png",
-    "Security/Методы шифрования/HMAC.md",
-    "Computer since/Слои архитектуры/Слои.md",
     "План написания",
-    "Computer since/Other Patterns/Table Module.md",
     "Computer since/Other Patterns",
     "Computer since/ООП/Принципы",
     "PHP/PSR",
     "PHP/Session",
     "PHP/Cookie",
-    "PHP/Composer",
-    "PHP/XDebug",
-    "PHP/SPL",
     "Pasted image 20241202160040.png",
     "Pasted image 20241202154150.png"
   ]
