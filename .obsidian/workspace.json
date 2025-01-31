@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer since/Хэширование.md",
+                "file": "Тетсирование/Mock Aren't Stubs.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Хэширование"
+              "title": "Mock Aren't Stubs"
             }
           }
         ],
@@ -176,15 +176,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "523d837a9dc89fed",
+  "active": "37913dc642253de0",
   "lastOpenFiles": [
+    "Тетсирование/Test Doubles.md",
+    "Computer since/Хэширование.md",
     "Security/Методы шифрования/MD5.md",
     "Security/Методы шифрования/Base64.md",
     "Security/Методы шифрования/bcrypt.md",
-    "Computer since/Хэширование.md",
     "Computer since/ORM/Lazy Loading (Eager Loading).md",
     "Computer since/ORM/Unit Of Work.md",
     "Computer since/ORM/Data Mapper.md",
@@ -209,7 +211,6 @@
     "Security/CRLF Injection.md",
     "Security/Хранение паролей в БД.md",
     "Security/Верификация запросов к API банков.md",
-    "Security/SQL Injection.md",
     "HTTP",
     "Pasted image 20250114090548.png",
     "Pasted image 20250114090538.png",
