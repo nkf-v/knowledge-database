@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "Mock Aren't Stubs"
             }
+          },
+          {
+            "id": "708892fa4bf92861",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -57,7 +69,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -176,11 +189,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37913dc642253de0",
+  "active": "708892fa4bf92861",
   "lastOpenFiles": [
     "Тетсирование/Test Doubles.md",
     "Computer since/Хэширование.md",
