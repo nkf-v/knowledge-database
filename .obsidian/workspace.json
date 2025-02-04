@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тетсирование/Mock Aren't Stubs.md",
-                "mode": "source",
+                "file": "Computer since/Clean architecture/Components/Связанность компонентов.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mock Aren't Stubs"
+              "title": "Связанность компонентов"
             }
           }
         ],
@@ -177,11 +177,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "523d837a9dc89fed",
   "lastOpenFiles": [
+    "Pasted image 20250204164145.png",
+    "Тетсирование/Mock Aren't Stubs.md",
+    "Computer since/Clean architecture/Components/Связанность компонентов.md",
+    "Computer since/Clean architecture/Components",
+    "Computer since/Clean architecture",
     "Тетсирование/Test Doubles.md",
     "Computer since/Хэширование.md",
     "Security/Методы шифрования/MD5.md",
@@ -208,9 +214,6 @@
     "Security/Code injection (eval).md",
     "Security/Path Traversal.md",
     "Security/CSRF Protection.md",
-    "Security/CRLF Injection.md",
-    "Security/Хранение паролей в БД.md",
-    "Security/Верификация запросов к API банков.md",
     "HTTP",
     "Pasted image 20250114090548.png",
     "Pasted image 20250114090538.png",
@@ -224,8 +227,6 @@
     "Computer since/Other Patterns",
     "Computer since/ООП/Принципы",
     "PHP/PSR",
-    "PHP/Session",
-    "PHP/Cookie",
     "Pasted image 20241202160040.png",
     "Pasted image 20241202154150.png"
   ]
