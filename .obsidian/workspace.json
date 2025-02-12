@@ -36,9 +36,22 @@
               "icon": "lucide-file",
               "title": "Связанность компонентов"
             }
+          },
+          {
+            "id": "579ef2bbf22eb334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security/SQL Injection.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SQL Injection"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,11 +193,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "523d837a9dc89fed",
+  "active": "22e6c2eb532cd72e",
   "lastOpenFiles": [
+    "Security/SQL Injection.md",
+    "Security/Path Traversal.md",
+    "Security/CSRF Protection.md",
+    "План написания/План написания.md",
+    "Computer since/Clean architecture/Components/Связанность компонентов.md",
     "Pasted image 20250204164145.png",
     "Тетсирование/Mock Aren't Stubs.md",
-    "Computer since/Clean architecture/Components/Связанность компонентов.md",
     "Computer since/Clean architecture/Components",
     "Computer since/Clean architecture",
     "Тетсирование/Test Doubles.md",
@@ -209,10 +226,7 @@
     "БД/SQL/SELECT",
     "БД/SQL/DDL.md",
     "БД/SQL/DDL",
-    "План написания/План написания.md",
     "Security/Code injection (eval).md",
-    "Security/Path Traversal.md",
-    "Security/CSRF Protection.md",
     "HTTP",
     "Pasted image 20250114090548.png",
     "Pasted image 20250114090538.png",
@@ -226,7 +240,6 @@
     "Computer since/Other Patterns",
     "Computer since/ООП/Принципы",
     "PHP/PSR",
-    "Pasted image 20241202160040.png",
-    "Pasted image 20241202154150.png"
+    "Pasted image 20241202160040.png"
   ]
 }
