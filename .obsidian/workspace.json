@@ -50,8 +50,23 @@
               "icon": "lucide-file",
               "title": "SQL Injection"
             }
+          },
+          {
+            "id": "2a3a00344caa48b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тетсирование/Test Doubles.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Test Doubles"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,12 +208,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22e6c2eb532cd72e",
+  "active": "2a3a00344caa48b0",
   "lastOpenFiles": [
+    "План написания/План написания.md",
     "Security/SQL Injection.md",
     "Security/Path Traversal.md",
     "Security/CSRF Protection.md",
-    "План написания/План написания.md",
     "Computer since/Clean architecture/Components/Связанность компонентов.md",
     "Pasted image 20250204164145.png",
     "Тетсирование/Mock Aren't Stubs.md",
