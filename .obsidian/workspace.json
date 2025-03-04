@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тетсирование/Test Doubles.md",
+                "file": "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Test Doubles"
+              "title": "1. S – Single Responsibility"
             }
           }
         ],
@@ -210,6 +210,7 @@
   },
   "active": "2a3a00344caa48b0",
   "lastOpenFiles": [
+    "Тетсирование/Test Doubles.md",
     "План написания/План написания.md",
     "Security/SQL Injection.md",
     "Security/Path Traversal.md",
@@ -219,7 +220,6 @@
     "Тетсирование/Mock Aren't Stubs.md",
     "Computer since/Clean architecture/Components",
     "Computer since/Clean architecture",
-    "Тетсирование/Test Doubles.md",
     "Computer since/Хэширование.md",
     "Security/Методы шифрования/MD5.md",
     "Security/Методы шифрования/Base64.md",
