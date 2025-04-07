@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "План написания/План написания.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "План написания"
+              "title": "README"
             }
           }
         ]
@@ -162,16 +162,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "22e6c2eb532cd72e",
   "lastOpenFiles": [
+    "Computer since/Other Patterns/CirquitBraker.md",
+    "README.md",
     "Computer since/Clean architecture/Components/Связанность компонентов.md",
     "Security/SQL Injection.md",
     "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
     "Тетсирование/Test Doubles.md",
-    "План написания/План написания.md",
     "Security/Path Traversal.md",
     "Security/CSRF Protection.md",
     "Pasted image 20250204164145.png",
@@ -197,7 +199,6 @@
     "БД/SQL/SELECT/LIMIT.md",
     "БД/SQL/JOIN.md",
     "БД/SQL/SELECT",
-    "БД/SQL/DDL.md",
     "БД/SQL/DDL",
     "HTTP",
     "Pasted image 20250114090548.png",

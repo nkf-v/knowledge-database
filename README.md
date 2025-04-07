@@ -1,12 +1,12 @@
 
+### TODO
+
 #### Пункты грейда M1
 
 PHP
 
 - [ ] opcache, JIT
-
 - [ ] Twig, Кэширование шаблонов
-
 - [ ] PHPStan, phpdoc-type
 
 DB
