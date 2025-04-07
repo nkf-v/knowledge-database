@@ -22,51 +22,8 @@
               "icon": "lucide-file",
               "title": "План написания"
             }
-          },
-          {
-            "id": "523d837a9dc89fed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer since/Clean architecture/Components/Связанность компонентов.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Связанность компонентов"
-            }
-          },
-          {
-            "id": "579ef2bbf22eb334",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security/SQL Injection.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "SQL Injection"
-            }
-          },
-          {
-            "id": "2a3a00344caa48b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "1. S – Single Responsibility"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,14 +165,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a3a00344caa48b0",
+  "active": "22e6c2eb532cd72e",
   "lastOpenFiles": [
+    "Computer since/Clean architecture/Components/Связанность компонентов.md",
+    "Security/SQL Injection.md",
+    "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
     "Тетсирование/Test Doubles.md",
     "План написания/План написания.md",
-    "Security/SQL Injection.md",
     "Security/Path Traversal.md",
     "Security/CSRF Protection.md",
-    "Computer since/Clean architecture/Components/Связанность компонентов.md",
     "Pasted image 20250204164145.png",
     "Тетсирование/Mock Aren't Stubs.md",
     "Computer since/Clean architecture/Components",
@@ -241,7 +199,6 @@
     "БД/SQL/SELECT",
     "БД/SQL/DDL.md",
     "БД/SQL/DDL",
-    "Security/Code injection (eval).md",
     "HTTP",
     "Pasted image 20250114090548.png",
     "Pasted image 20250114090538.png",
