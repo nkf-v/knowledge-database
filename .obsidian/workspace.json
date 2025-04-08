@@ -27,10 +27,14 @@
             "id": "ea647cdcff9f217f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Лицензии.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Лицензии"
             }
           }
         ],
@@ -179,6 +183,7 @@
   },
   "active": "ea647cdcff9f217f",
   "lastOpenFiles": [
+    "Лицензии.md",
     "README.md",
     "Computer since/Other Patterns/CirquitBraker.md",
     "Computer since/Clean architecture/Components/Связанность компонентов.md",
@@ -208,7 +213,6 @@
     "БД/SQL/SELECT/Оптимизация запросов.md",
     "БД/SQL/SELECT/OFFSET.md",
     "БД/SQL/SELECT/LIMIT.md",
-    "БД/SQL/JOIN.md",
     "БД/SQL/SELECT",
     "БД/SQL/DDL",
     "HTTP",
