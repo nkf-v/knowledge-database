@@ -22,8 +22,19 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "ea647cdcff9f217f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,10 +177,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22e6c2eb532cd72e",
+  "active": "ea647cdcff9f217f",
   "lastOpenFiles": [
-    "Computer since/Other Patterns/CirquitBraker.md",
     "README.md",
+    "Computer since/Other Patterns/CirquitBraker.md",
     "Computer since/Clean architecture/Components/Связанность компонентов.md",
     "Security/SQL Injection.md",
     "Computer since/ООП/SOLID/1. S – Single Responsibility.md",
