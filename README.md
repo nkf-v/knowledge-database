@@ -28,3 +28,5 @@ DB
 - [ ] message bus
 - [ ] outbox
 - [ ] EDA
+- [ ] Шаблоны интеграций корпоративных приложений
+- [ ] курс Уди Дахана ADSD (Advanced Distributed System Design)
