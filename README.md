@@ -24,3 +24,7 @@ DB
 - [ ] Composer config bunp-after-update
 - [ ] блог Хорикова
 - [ ] Вон Вернон, реализация методов предметно-ориентированного проектирования
+- [ ] Кента Бека Tidy First
+- [ ] message bus
+- [ ] outbox
+- [ ] EDA
