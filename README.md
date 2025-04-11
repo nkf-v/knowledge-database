@@ -21,3 +21,4 @@ DB
 
 - [ ] Package by feature/Vertical slice architecture
 - [ ] Cohesion
+- [ ] Composer config bunp-after-update
