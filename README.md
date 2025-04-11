@@ -16,3 +16,8 @@ DB
 - [ ] Slave, репликация БД
 - [ ] Время и производительность запросов ??
 - [ ] DELETE, прикол с TRUNCATE
+
+#### Дополнительно посмотреть\изучить
+
+- [ ] Package by feature/Vertical slice architecture
+- [ ] Cohesion
