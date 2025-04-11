@@ -21,7 +21,7 @@ DB
 
 - [ ] Package by feature/Vertical slice architecture
 - [ ] Cohesion
-- [ ] Composer config bunp-after-update
+- [ ] Composer config bump-after-update
 - [ ] блог Хорикова
 - [ ] Вон Вернон, реализация методов предметно-ориентированного проектирования
 - [ ] Кента Бека Tidy First
