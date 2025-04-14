@@ -29,6 +29,6 @@ DB
 - [ ] Кента Бека Tidy First
 - [ ] message bus
 - [ ] outbox
-- [ ] EDA
+- [ ] EDA (Event Driven Architecture)
 - [ ] Шаблоны интеграций корпоративных приложений
 - [ ] курс Уди Дахана ADSD (Advanced Distributed System Design)
