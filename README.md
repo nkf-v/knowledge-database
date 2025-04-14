@@ -22,9 +22,9 @@ DB
 - [ ] Package by feature/Vertical slice architecture
 - [ ] Cohesion
 - [ ] Composer config bump-after-update
-- [ ] блог Хорикова
-- [ ] книга Хорикова
-- [ ] Доклад Хорикова DDD, БД, Валидация
+- [ ] блог Хориков
+- [ ] книга Хориков
+- [ ] Доклад Хориков DDD, БД, Валидация
 - [ ] Вон Вернон, реализация методов предметно-ориентированного проектирования
 - [ ] Кента Бека Tidy First
 - [ ] message bus
