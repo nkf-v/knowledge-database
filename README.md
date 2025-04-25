@@ -32,3 +32,6 @@ DB
 - [ ] EDA (Event Driven Architecture)
 - [ ] Шаблоны интеграций корпоративных приложений
 - [ ] курс Уди Дахана ADSD (Advanced Distributed System Design)
+
+- [ ] Ring
+- [ ] AB тестирование
