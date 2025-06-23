@@ -17,6 +17,12 @@ DB
 - [ ] Время и производительность запросов ??
 - [ ] DELETE, прикол с TRUNCATE
 
+#### Пункты грейда M2
+
+PHP-FPM
+
+- [ ] 
+
 #### Дополнительно посмотреть\изучить
 
 - [ ] Package by feature/Vertical slice architecture
