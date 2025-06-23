@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "856ea2798e065696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHP/Extensions/opcache.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "opcache"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,13 +177,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22e6c2eb532cd72e",
+  "active": "856ea2798e065696",
   "lastOpenFiles": [
-    "Лицензии.md",
+    "Pasted image 20250623110001.png",
     "README.md",
+    "PHP/Extensions/opcache.md",
+    "PHP/Extensions",
+    "Лицензии.md",
     "Computer since/Other Patterns/CirquitBraker.md",
     "Computer since/Clean architecture/Components/Связанность компонентов.md",
     "Security/SQL Injection.md",
@@ -195,8 +214,6 @@
     "БД/SQL/EXPLAIN.md",
     "PHP/Libs/phpunit",
     "БД/SQL/SELECT/Оптимизация запросов.md",
-    "БД/SQL/SELECT/OFFSET.md",
-    "БД/SQL/SELECT/LIMIT.md",
     "БД/SQL/SELECT",
     "БД/SQL/DDL",
     "HTTP",
@@ -211,7 +228,6 @@
     "План написания",
     "Computer since/Other Patterns",
     "Computer since/ООП/Принципы",
-    "PHP/PSR",
     "Pasted image 20241202160040.png"
   ]
 }

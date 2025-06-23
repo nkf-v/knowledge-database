@@ -5,7 +5,7 @@
 
 PHP
 
-- [ ] opcache, JIT
+- [x] opcache, JIT
 - [ ] Twig, Кэширование шаблонов
 - [ ] PHPStan, phpdoc-type
 
