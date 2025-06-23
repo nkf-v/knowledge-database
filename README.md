@@ -5,15 +5,26 @@
 
 PHP
 
-- [ ] Twig, Кэширование шаблонов
+- [ ] Работа с байтными строками
+- [ ] Сериализация (symfony, native, happyr, happyr-router)
+	- [ ] ADR-1
+- [ ] Шаблонизаторы
+	- [ ] Twig,
+	- [ ] Кэширование шаблонов
 - [ ] PHPStan, phpdoc-type
-
+- [ ] Doctrine ORM
+	- [ ] +- использования ORM
+	- [ ] Особенности работы с разными EntityManager. Почему может потребоваться несколько EM и к каким ошибкам это может привести?
+	 - [ ] Работа с Lifecycle Callbacks, Discriminator
+	 - [ ] https://www.doctrine-project.org/projects/doctrine-orm/en/3.3/reference/inheritance-mapping.html#entity-inheritance
+- [ ] SPL
+- []
 DB
 
 - [ ] CREATE, ALTER, DROP (Table, function, index)
 - [ ] Блокировки таблицы deadlock
 - [ ] Slave, репликация БД
-- [ ] Время и производительность запросов ??
+- [ ] Время и производительность запросов
 - [ ] DELETE, прикол с TRUNCATE
 
 #### Пункты грейда M2
