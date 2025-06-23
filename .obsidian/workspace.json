@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/Extensions/opcache.md",
+                "file": "PHP/Extensions/OPcache.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "opcache"
+              "title": "OPcache"
             }
           }
         ],
@@ -187,7 +187,7 @@
     "Pasted image 20250623110417.png",
     "Pasted image 20250623110001.png",
     "README.md",
-    "PHP/Extensions/opcache.md",
+    "PHP/Extensions/OPcache.md",
     "PHP/Extensions",
     "Лицензии.md",
     "Computer since/Other Patterns/CirquitBraker.md",
