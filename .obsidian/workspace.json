@@ -37,8 +37,7 @@
               "title": "OPcache"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,13 +180,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "856ea2798e065696",
+  "active": "22e6c2eb532cd72e",
   "lastOpenFiles": [
+    "PHP/Extensions/OPcache.md",
+    "README.md",
     "Pasted image 20250623110424.png",
     "Pasted image 20250623110417.png",
     "Pasted image 20250623110001.png",
-    "README.md",
-    "PHP/Extensions/OPcache.md",
     "PHP/Extensions",
     "Лицензии.md",
     "Computer since/Other Patterns/CirquitBraker.md",
@@ -225,7 +224,6 @@
     "Pasted image 20250114090512.png",
     "Pasted image 20250114090317.png",
     "Pasted image 20250114090307.png",
-    "Pasted image 20250114090255.png",
     "План написания",
     "Computer since/Other Patterns",
     "Computer since/ООП/Принципы"
