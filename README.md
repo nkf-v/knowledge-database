@@ -18,7 +18,8 @@ PHP
 	 - [ ] Работа с Lifecycle Callbacks, Discriminator
 	 - [ ] https://www.doctrine-project.org/projects/doctrine-orm/en/3.3/reference/inheritance-mapping.html#entity-inheritance
 - [ ] SPL
-- []
+- [ ] asdas
+
 DB
 
 - [ ] CREATE, ALTER, DROP (Table, function, index)
