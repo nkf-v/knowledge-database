@@ -8,7 +8,7 @@ PHP
 - [ ] Работа с байтными строками
 - [ ] Сериализация (symfony, native, happyr, happyr-router)
 	- [ ] ADR-1
-- [ ] Шаблонизаторы
+- [ ] Шаблонизаторы 
 	- [ ] Twig,
 	- [ ] Кэширование шаблонов
 - [ ] PHPStan, phpdoc-type
