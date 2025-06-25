@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0c369df4495a4c8f",
+        "id": "91a8dd31a37433a5",
         "type": "tabs",
         "children": [
           {
-            "id": "22e6c2eb532cd72e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "856ea2798e065696",
+            "id": "cef71427af0da9d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHP/Extensions/OPcache.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "OPcache"
+              "title": "New tab"
             }
           }
         ]
@@ -179,7 +159,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22e6c2eb532cd72e",
+  "active": "cef71427af0da9d9",
   "lastOpenFiles": [
     "PHP/Extensions/OPcache.md",
     "README.md",
